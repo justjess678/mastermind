@@ -1,1 +1,2 @@
 # mastermind
+Java mastermind project
